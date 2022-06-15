@@ -1,0 +1,6 @@
+streamlit 
+pandas
+tensorflow
+geopy.geocoders
+haversine
+numpy
