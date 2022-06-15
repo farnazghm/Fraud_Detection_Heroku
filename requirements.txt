@@ -4,3 +4,4 @@ tensorflow==2.0.0
 geopy==2.2.0
 haversine==2.5.1
 numpy==1.18.5
+python==3.7.13
